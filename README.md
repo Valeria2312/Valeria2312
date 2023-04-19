@@ -22,7 +22,7 @@
 <h3 align="left">Социальные сети:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/valeria-koroleva-a81030273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeria-koroleva-a81030273" height="30" width="40" /></a>
-  <a href="https://t.me/koroleva_valeria" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/telegram_2111646?term=telegram&related_id=2111646" alt="koroleva_valeria" height="30" width="40" /></a>
+  <a href="https://t.me/koroleva_valeria" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" alt="telegram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
