@@ -3,7 +3,7 @@
 
 - 🔭 Я закончила обучение в Яндекс.Практикуме [React-burger](https://github.com/Valeria2312/React-burger)
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 Я продолжаю изучать и совершенствовать **React, TypeScript**
 
 - 👨‍💻 Все мои проекты доступны по адресу [https://github.com/Valeria2312?tab=repositories](https://github.com/Valeria2312?tab=repositories)
 
