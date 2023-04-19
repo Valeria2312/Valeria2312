@@ -15,13 +15,14 @@
 
 - 👨‍💻 Все мои проекты доступны по адресу [https://github.com/Valeria2312?tab=repositories](https://github.com/Valeria2312?tab=repositories)
 
-- 📫 How to reach me **Koroleva.Valeria.97@yandex.ru**
+- 📫 Связаться со мной **Koroleva.Valeria.97@yandex.ru**
 
 - 📄 Мое резюме можно посмотреть тут [https://hh.ru/resume/ae61f832ff08d42c7c0039ed1f485645744d49](https://hh.ru/resume/ae61f832ff08d42c7c0039ed1f485645744d49)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Социальные сети:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/valeria-koroleva-a81030273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeria-koroleva-a81030273" height="30" width="40" /></a>
+  <a href="https://t.me/koroleva_valeria" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/telegram_2111646?term=telegram&related_id=2111646" alt="koroleva_valeria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
